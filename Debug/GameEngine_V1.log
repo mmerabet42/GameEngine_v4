@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\mohammed\desktop\programmation\projects\visual studio\c++\gameengine_v1\gameengine_v1\main.cpp(124): warning C4244: '-=' : conversion de 'double' en 'float', perte possible de données
+c:\users\mohammed\desktop\programmation\projects\visual studio\c++\gameengine_v1\gameengine_v1\main.cpp(125): warning C4244: '+=' : conversion de 'double' en 'float', perte possible de données
+  GameEngine_V1.vcxproj -> C:\Users\Mohammed\Desktop\Programmation\Projects\Visual Studio\C++\GameEngine_V1\Debug\GameEngine_V1.exe
+  GameEngine_V1.vcxproj -> C:\Users\Mohammed\Desktop\Programmation\Projects\Visual Studio\C++\GameEngine_V1\Debug\GameEngine_V1.pdb (Partial PDB)
