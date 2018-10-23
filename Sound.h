@@ -1,6 +1,6 @@
 #pragma once
 
-#include <FMOD\fmod.hpp>
+#include <FMOD/fmod.hpp>
 #include <string>
 
 namespace dn
