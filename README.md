@@ -32,6 +32,8 @@ win->UpdateEvent.AddListener([](dn::Window *p_win) {
   obj->Update();
   camera->Update();
 });
+
+dn::Application::Run();
 ```
 
 The project isn't done, and has been developed in a Windows OS on the Visual Studio IDE, so it may not compile on other OS's.
