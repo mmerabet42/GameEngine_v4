@@ -38,4 +38,4 @@ dn::Application::Run();
 
 The project isn't done, and has been developed in a Windows OS on the Visual Studio IDE, so it may not compile on other OS's.
 
-But a new version is on its way.
+But a new and better version is on its way with a deeper documentation.
