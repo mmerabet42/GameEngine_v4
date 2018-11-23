@@ -8,7 +8,7 @@ A 'GameObject' is an abstract object in a 3D scene, that can have one or more co
 
 This is precisely this abstraction that i wanted to reimplement through this project, and it was possible under the power of the OOP (Oriented Object Programming) of the C++ language.
 
-For a better understanding of how near it is to the original Unity system, this is how you would create an object and add a *Transorm* component to it (Thankfully C# and C++ have a similar syntax for templates):
+For a better understanding on how near it is to the original Unity system, this is how you would create an object with a *Transorm* component attached to it (Thankfully C# and C++ have a similar syntax for templates):
 ```C++
 dn::Object *obj = new dn::Object();
 
