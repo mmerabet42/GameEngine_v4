@@ -44,4 +44,4 @@ dn::Application::Run();
 
 Unfortunately, the project isn't done, and has been developed in a Windows OS on the Visual Studio IDE, so it may not compile on other OS's.
 
-But a new and better version is on its way with a deeper documentation.
+But a new and better version is on its way with a deeper documentation. Which is [Dyne](https://github.com/mmerabet42/Dyne)
